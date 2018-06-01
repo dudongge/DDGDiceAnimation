@@ -224,4 +224,14 @@ switch self.diceAnimationType {
     }
 }
 ```
+DDGDiceAnimation is available under the MIT license. See the LICENSE file for more info.
+如果有问题欢迎提出，QQ：532835032 ，如果对您有帮助，希望您动动鼠标，不吝给个star.!
+
+
+## instructions （备注）
+
+鉴于还有部分童鞋还在OC上开发，其他相关库附上链接，希望可以帮到你：
+文件缓存：[DDGDataCache_OC](https://github.com/dudongge/DDGDataCache_OC)
+
+图片截屏库：[https://github.com/dudongge/DDGScreenShot](https://github.com/dudongge/DDGScreenShot)
 
